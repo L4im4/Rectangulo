@@ -1,0 +1,14 @@
+body{
+background-color: cornflowerblue;
+text-align: center;
+color: darkblue;
+}
+
+#des{
+bottom: 0px !important;
+position: fixed;
+}
+
+canvas{
+border: 5px solid;
+}
